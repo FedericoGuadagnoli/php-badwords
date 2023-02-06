@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    padding: 5%;
+}
+
+input,
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+input:first-child {
+    width: 20rem;
+}
+
+button {
+    background-color: dodgerblue;
+    color: white;
+}
+
+div {
+    padding: 2rem;
+}
+
+p {
+    color: red;
+}
